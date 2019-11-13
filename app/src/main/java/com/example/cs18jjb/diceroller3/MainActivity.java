@@ -102,5 +102,6 @@ public class MainActivity extends AppCompatActivity {
 
         String qselect = questions.get(number2);
         av.setText(qselect);
+        //gitallow
     }
 }
